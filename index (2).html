@@ -1,0 +1,501 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>cv.md</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+body{
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 5px;
+}
+h1, h2, h3, h4 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, p {
+    margin-bottom: 16px;
+    padding: 0;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 22px;
+    margin: 20px 0 6px;
+}
+h3 {
+    font-size: 21px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+a {
+    color: #0099ff;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+a:visited {
+    color: purple;
+}
+ul, ol {
+    padding: 0;
+    margin: 0;
+}
+li {
+    line-height: 24px;
+    margin-left: 44px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 540px;
+}
+pre {
+    padding: 0px 24px;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+    max-width: 476px;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
+
+blockquote p {  
+    color: #666;
+    max-width: 460px;
+}
+hr {
+    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+button, input {
+  line-height: normal;
+  *overflow: visible;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+}
+/* override default chrome & firefox settings */
+input:not([type="image"]), textarea {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+label,
+input,
+select,
+textarea {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: normal;
+  margin-bottom: 18px;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+  margin-bottom: 0;
+}
+input[type=text],
+input[type=password],
+textarea,
+select {
+  display: inline-block;
+  width: 210px;
+  padding: 4px;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+  height: 18px;
+  color: #808080;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+select, input[type=file] {
+  height: 27px;
+  line-height: 27px;
+}
+textarea {
+  height: auto;
+}
+
+/* grey out placeholders */
+:-moz-placeholder {
+  color: #bfbfbf;
+}
+::-webkit-input-placeholder {
+  color: #bfbfbf;
+}
+
+input[type=text],
+input[type=password],
+select,
+textarea {
+  -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+  -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+  transition: border linear 0.2s, box-shadow linear 0.2s;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+input[type=text]:focus, input[type=password]:focus, textarea:focus {
+  outline: none;
+  border-color: rgba(82, 168, 236, 0.8);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+}
+
+/* buttons */
+button {
+  display: inline-block;
+  padding: 4px 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  background-color: #0064cd;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#049cdb), to(#0064cd));
+  background-image: -moz-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -ms-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #049cdb), color-stop(100%, #0064cd));
+  background-image: -webkit-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -o-linear-gradient(top, #049cdb, #0064cd);
+  background-image: linear-gradient(top, #049cdb, #0064cd);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid #004b9a;
+  border-bottom-color: #003f81;
+  -webkit-transition: 0.1s linear all;
+  -moz-transition: 0.1s linear all;
+  transition: 0.1s linear all;
+  border-color: #0064cd #0064cd #003f81;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+button:hover {
+  color: #fff;
+  background-position: 0 -15px;
+  text-decoration: none;
+}
+button:active {
+  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+/* CSS stylesheet is based on Kevin Burke's Markdown.css project (http://kevinburke.bitbucket.org/markdowncss) */
+</style>
+</head>
+<body>
+<!--        
+##Graphics
+gif galore
+shirts
+paintings
+-->
+
+<p><a id="about"></p>
+
+<h1>about</h1>
+
+<p></a></p>
+
+<p>Hi,<br />
+My name is Eran Weissenstern.<br />
+I'm an artist, engineer, and a <a href="" title="This is a tool tip">self-referencer</a>.<br />
+I seek for the boundaries between imaginary and real, trying to bridge between human and machine.</p>
+
+<p>You can read about some of my past projects <a href="#projects">here</a>, or see my <a href="https://github.com/eranws/">github</a> for more up-to-date projects i'm currently doing.</p>
+
+<p><a id="projects"></p>
+
+<h1>Projects</h1>
+
+<p></a></p>
+
+<hr />
+
+<p><a id="<br />
+reach"></p>
+
+<h3>"Reach"</h3>
+
+<p></a></p>
+
+<p>Primesense UX Group</p>
+
+<p>Reach is Primesense's TV control paradigm, that demonstrates a concept of direct media access, using natural gestures.<br />
+Watch on youtube: <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=qmpec1RkV5g">1</a> <a href="http://www.youtube.com/watch?v=cqSi8yT4P7Q">2</a></p>
+
+<hr />
+
+<h3>"MovieWeaver"</h3>
+
+<p>Computer Engineering Final Project - HUJI</p>
+
+<p>"Movie Weaver" is an automatic video editor that utilizes the power of probabilistic models along with filmmaking paradigms to turn a collection of video clips into a movie.<br />
+read the <a href="MovieWeaver/book.pdf">book</a> or see the <a href="MovieWeaver/poster.pdf">poster</a></p>
+
+<!--
+Eran Weissenstern Ariel Tal
+-->
+
+<hr />
+
+<h3>"You Are One"</h3>
+
+<p>a revolutionary web-based mail, where simplicity is placed above all<br />
+<a href="http://youareone2.appspot.com/mail.html">link</a></p>
+
+<!--
+![logo](youareone/logo.gif)
+Eran Weissenstern
+Chaim Lando
+-->
+
+<hr />
+
+<h3>"RoboGen"</h3>
+
+<p>a genetic programming algorithm that generates virtual robot-tanks, mutating and evolving them over time, in the 'Robocode' programming game.</p>
+
+<p><a href="https://code.google.com/p/robogp/">code</a></p>
+
+<!--
+tags: (AI, HUJI)
+-->
+
+<hr />
+
+<h3>"WikiWars"</h3>
+
+<p>Visualisation of relations between random wikipedia articles<br />
+(Visualisation &amp; Sonification joint course, HUJI, Bezalel)</p>
+
+<hr />
+
+<h3>"Dance Jockey 1.0"</h3>
+
+<p>Visualization of Dance<br />
+(Visualisation &amp; Sonification joint course, HUJI, Bezalel, Max/MSP)</p>
+
+<!-- ppt -->
+
+<hr />
+
+<h3>"BigBird"</h3>
+
+<p>A smart twitter client for mobile phone that tweets according to the learned user behavior.<br />
+By using multi-class perceptron on the device's input sensors like accelerometer, GPS, and microphone, and correlating it to the user's history of tweets.  </p>
+
+<!-- 
+(AI and Machine Learning joint course, HUJI, Bezalel, Android)
+-->
+
+<!--
+###"ReverseCohol"
+(AI and Machine Learning joint course, HUJI, Bezalel, Android)
+-->
+
+<hr />
+
+<h3>"Religion, Sex, Race"</h3>
+
+<p>Mini-game concept for two human</p>
+
+<!-- ppt -->
+
+<hr />
+
+<h3>"Forgot my phone"</h3>
+
+<p>Mobile application that forwards incoming calls and messages to email<br />
+In case you forgot your phone, you can log-on to the site and see your missed calls, incoming messages and reply to these calls/messages.<br />
+Eran Weissenstern<br />
+Chaim Lando</p>
+
+<hr />
+
+<h3>"Powermat Anywhere"</h3>
+
+<p>wireless power charging solution, self adjusting to the user's device using gradient descent search algorithm.<br />
+(Powermat)</p>
+
+<hr />
+
+<hr />
+
+<h1>community</h1>
+
+<h2>Talks, Events</h2>
+
+<p>Speaker at <a href="http://www.gdconf.com/">GDC</a>, Game Developer Conference 2012, Presenting "How to creating Motion-game from scratch in 30 minutes"</p>
+
+<p>I developed and led a <a href="http://blog.primesense.com/2012/09/the-joy-of-creation/">Motion-game Workshop</a> with PrimeSense sensors and Unity3d.<br />
+The workshop was held at "Center of Design and Technology", for an audience of students and graduades of Bezalel Academy of Arts and the Hebrew University.<br />
+The workshop was given also in a game development course at Shenkar.<br />
+<a href="http://www.youtube.com/playlist?list=PL69B166657034606C&amp;feature=plcp">Watch a collection of cool games developed in the workshop</a></p>
+
+<p>Co-organizer of <a href="http://thelepercolony.wordpress.com/infected-2/">"INFECTED"</a>, the 1st hackathon at the "Center of Design and Technology".<br />
+I was mentoring and giving technical assitance to teams who developed project with Primesense 3d camera</p>
+
+<p>Speaker at the <a href="[http://www.taufilmfest.com/en/events/new_media]">New Media Conference</a>, in the 14th International Student Film Festival, Tel-Aviv. Presenting Primesense's technology and it possible usage in the film industry.</p>
+
+<h2>Mentoring</h2>
+
+<p>Here are some beautiful projects that I helped to carry out:</p>
+
+<h3>"Follow Focus" by Adi Soffer</h3>
+
+<p>A remote controlled focus for DSLR camera <a href="http://www.youtube.com/watch?v=uXpLIT_GN6Q&amp;feature=plcp">youtube</a>, <a href="http://adisoffer.tumblr.com/post/23469538631/building-the-arduino-based-follow-focus-pt-1">tutorial</a></p>
+
+<h3>"Video Accordion" by Shmulik Twig</h3>
+
+<p>An accordion that controls the playback of the video, where each key picks a different performance-clip to play, while the direction and speed of the video playback is controlled by the accordion's bellows.<br />
+Watch the accordion in <a href="https://vimeo.com/32626867">vimeo</a><br />
+Watch the whole circus in <a href="http://vimeo.com/27476613">vimeo</a></p>
+
+<hr />
+
+<h1>cv / work experience</h1>
+
+<p>connect via <a href="http://il.linkedin.com/pub/eran-weissenstern/61/154/936/">linkedin</a></p>
+
+<h3>Primesense</h3>
+
+<!--
+![cv/primesense.jpg](cv/primesense.jpg)
+-->
+
+<p>Application Engineer, UX team<br/><br />
+2011 - current</p>
+
+<p>I am part of the multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.<br />
+From concepts and brainstorm, through wireframes and mockups, to a working live demo. See 'Reach'.</p>
+
+<p><a href="http://www.primesense.com/">http://www.primesense.com/</a></p>
+
+<hr />
+
+<h3>Powermat</h3>
+
+<!--
+![](cv/powermat_logo_sh.jpg)
+-->
+
+<p>Firmware Engineer<br />
+2009 - 2011</p>
+
+<p>I was part of the R&amp;D team that developed the first commercial wireless charging solution. </p>
+
+<p>I was the lead developer of <em>"Powermat Anywhere"</em>, a wireless power charging solution, that self adjusts to the user's device using gradient descent search algorithm. (squeezed into 64 bytes of RAM)</p>
+
+<p><a href="http://powermat.com">http://powermat.com</a></p>
+
+<hr />
+
+<p>2007 - 2009: </p>
+
+<h3>Yellow Submarine Music Club</h3>
+
+<!--
+![](cv/yellowsublogo.png)
+-->
+
+<p>Freelance Translator<br />
+I translated the monthly programme of the well known music club from Hebrew to English.</p>
+
+<p><a href="http://yellowsubmarine.org.il/?page_id=370&amp;lang=en">yellowsubmarine.org.il</a></p>
+
+<hr />
+
+<p>2006 - 2008:</p>
+
+<h3>IDF - field experiment team</h3>
+
+<p>I was part of research and development experiment team for the IDF vehicles’ armor. I helped to develop the <a href="http://en.wikipedia.org/wiki/Namer">Namer</a>, an armored personnel carrier.</p>
+
+<hr />
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
