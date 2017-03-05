@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Accordion
-description: by Shmulik Twig
+description: with Shmulik Twig
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: 
 ---

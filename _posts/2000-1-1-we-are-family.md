@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Family
-description: by Oded Ezer
+description: with Oded Ezer
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: 
 ---

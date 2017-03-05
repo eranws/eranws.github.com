@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Follow Focus
-description: by Adi Soffer
+description: with Adi Soffer
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: 
 ---
