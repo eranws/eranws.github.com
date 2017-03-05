@@ -3,6 +3,8 @@ layout: post
 title: ZipperSwitch
 description: demo of a zipper as an on/off switch
 image: http://img.youtube.com/vi/zP-OwJLfN3A/maxresdefault.jpg
+tags: arduino
+categories: interaction
 ---
 An example to demonstrate the use of a zipper as an on/off switch 
 https://eranws.github.io/ZipperSwitch/ Edit

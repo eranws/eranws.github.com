@@ -4,7 +4,8 @@ title: Powermat Anywhere
 description: wireless power charging solution
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: /assets/images/powermat-duracell.jpg
-tags: patent work powermat
+tags: patent powermat
+categories: work
 
 # powermat:
 # US 9478991 B2

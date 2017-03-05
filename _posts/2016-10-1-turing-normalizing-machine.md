@@ -6,6 +6,9 @@ description: An experiment in machine learning & algorithmic prejudice<br/>with 
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: http://mushon.com/tnm/img/tnm_turing.jpg
 with: Mushon Zer-Aviv
+tags: installation
+categories: friends interaction
+
 ---
 
 An experiment in machine learning & algorithmic prejudice

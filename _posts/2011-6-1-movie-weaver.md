@@ -5,7 +5,9 @@ description: Markov-Model Automatic Video Editor
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: http://eranws.github.io/projects/MovieWeaver/ours.jpg
 tags: Visualisation HUJI video
+category: photography
 with: Ariel Tal
+
 ---
 
 "Movie Weaver" is an automatic video editor that utilizes the power of probabilistic models along with filmmaking paradigms to turn a collection of video clips into a movie.

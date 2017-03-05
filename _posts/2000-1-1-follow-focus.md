@@ -3,8 +3,8 @@ layout: post
 title: Follow Focus
 description: with Adi Soffer
 image: http://img.youtube.com/vi/uXpLIT_GN6Q/maxresdefault.jpg
-tags: arduino camera photo
-categories: friends
+tags: arduino camera servo
+categories: friends photography
 with: Adi Soffer
 ---
 
