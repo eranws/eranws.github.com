@@ -3,19 +3,13 @@ layout: post
 title: We Are Family
 description: with Oded Ezer
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
-image: 
+image: http://odedezer.com/wp-content/uploads/2014/11/OdedEzer_S.gif
+tags: gifs interaction installation 
 ---
  
-<p>‘We Are Family’ is an interactive, typographic-animated-gif installation that make use of fragments from found online political, brutal, pornographic and other videos to create a new kind of typographic visual language.</p>
-<img width="560" height="560" src="http://odedezer.com/wp-content/uploads/2014/11/OdedEzer_S.gif" frameborder="0" ></img>
+‘We Are Family’ is an interactive, typographic-animated-gif installation that make use of fragments from found online political, brutal, pornographic and other videos to create a new kind of typographic visual language.
 
-<!--
-<p> Watch it on <a href="http://www.youtube.com/watch?v=uXpLIT_GN6Q&amp;feature=plcp">youtube</a> <br />
--->
+![](http://odedezer.com/wp-content/uploads/2014/11/OdedEzer_WeAreFamily.jpg)
 
-<p>
-<a href="http://odedezer.com/we-are-family">website</a>
-</p>
-
-<hr />
+Read more at Oded Ezer <a href="http://odedezer.com/we-are-family">website</a>
 

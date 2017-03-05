@@ -1,21 +1,18 @@
 ---
 layout: post
-title: Power Anywhere
+title: Powermat Anywhere
 description: wireless power charging solution
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
-image: 
+image: /assets/images/powermat-duracell.jpg
+tags: patent work powermat
 
 # powermat:
 # US 9478991 B2
 
 ---
 
-<!--
-<h3>""</h3>
+wireless power charging solution, self adjusting to the user's device 
 
-<p>wireless power charging solution, self adjusting to the user's device using gradient descent search algorithm.<br />
-(Powermat)</p>
+using gradient descent search algorithm (under 64 Bytes of RAM)
 
-<hr />
--->
-
+Patent # US 9478991 B2

@@ -2,8 +2,7 @@
 layout: post
 title: ViewFinder
 description: Mobile App for Optimizing Composition
-# image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
-image: 
+image: http://img.youtube.com/vi/3hD1TWJqCno/maxresdefault.jpg
 tags: android, photo
 ---
 
