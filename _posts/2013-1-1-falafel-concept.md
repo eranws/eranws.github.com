@@ -3,7 +3,9 @@ layout: post
 title: New Falafel Concept
 description: with Avishai Lapid
 image: http://img.youtube.com/vi/7Zx499EiE_g/maxresdefault.jpg
-tags: 
+tags: kinect 
+categories: 
+
 ---
 
 An interactive ad concept for Falafel-shop

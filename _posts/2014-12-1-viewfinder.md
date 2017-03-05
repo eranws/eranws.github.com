@@ -3,12 +3,11 @@ layout: post
 title: ViewFinder
 description: Mobile App for Optimizing Composition
 image: http://img.youtube.com/vi/3hD1TWJqCno/maxresdefault.jpg
-tags: android, photo
+tags: android photo
+categories: 
+
 ---
 
-<p><a id="viewFinder"></p>
-
-<p>
 Recent years have seen dramatic progress both in the hardware and in the software driving digital photograpy. We now can utilize the processing power of our smartphones to create stunning visual effects.
 </p>
 

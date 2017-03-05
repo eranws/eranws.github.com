@@ -5,6 +5,7 @@ description: with Avishai Lapid
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: http://www.avishailapid.com/wp-content/uploads/2016/04/Kuznetsov035.jpg
 tags: processing kinect ui
+categories: 
 ---
 
 The home appliances electronic orchestra

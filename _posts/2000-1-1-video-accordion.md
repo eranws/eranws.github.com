@@ -5,6 +5,7 @@ description: Accordion Video Controller
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: https://i.vimeocdn.com/video/220894171_640x480.jpg
 tags: arduino sensors video interaction
+categories: friends
 with: Shmulik Twig
 ---
 
