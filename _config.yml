@@ -1,7 +1,9 @@
 # Site settings
 title: eran.ws
 subtitle: portfolio
-email: youremailaddress@gmail.com
+email: eranws@gmail.com
+email_href: "mailto:eranws@gmail.com?Subject=Hi Eran, this is <your%20name>"
+
 description: ""
 baseurl: "" # /forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
