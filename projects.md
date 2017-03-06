@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Elements
+title: projects
+url: \#projects
 ---
+
+{% include tiles.html %}
 
 <!-- Main -->
 <div id="main" class="alt">

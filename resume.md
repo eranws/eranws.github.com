@@ -9,10 +9,6 @@ nav-menu: true
 
 ---
 
-
-
-<p>Connect via <a href="http://il.linkedin.com/pub/eran-weissenstern/61/154/936/">linkedin</a></p>
-
 <h3>Primesense</h3>
 
 <!--
@@ -74,3 +70,5 @@ I translated the monthly programme of the well known music club from Hebrew to E
 
 <p>I was part of research and development experiment team for the IDF vehicles' armor. I helped to develop the <a href="http://en.wikipedia.org/wiki/Namer">Namer</a>, an armored personnel carrier.</p>
 
+
+<!--<p>Connect via <a href="http://il.linkedin.com/pub/eran-weissenstern/61/154/936/">linkedin</a></p>-->
