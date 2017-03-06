@@ -12,7 +12,7 @@ I'm an artist, engineer and a musician
 I seek for the boundaries between imaginary and real;  
 trying to bridge between human and machine.
 
-You can read about some of my past projects here, or 
+You can read about some of my past projects here, or  
+see my <a href="https://github.com/eranws/">github</a> page for more up-to-date work
 
-see my <a href="https://github.com/eranws/">github</a> for more up-to-date projects I'm currently working on
 <!--link to footer?-->
