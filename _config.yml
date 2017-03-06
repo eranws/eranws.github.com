@@ -5,7 +5,7 @@ email: youremailaddress@gmail.com
 description: ""
 baseurl: "" # /forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Eran Weissenstern
 # street_address: 1234 Somewhere Road
 # city: Nashville
 # state: TN
@@ -19,13 +19,14 @@ tiles-source: posts # accepts "posts" or "pages"
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/eranws/
 gitlab_url:
-googleplus_url: https://plus.google.com/u/0/+
-linkedin_url: https://www.linkedin.com/in/
+googleplus_url: #https://plus.google.com/u/0/+
+linkedin_url: #https://www.linkedin.com/in/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/
+twitter_url: #https://twitter.com/
+stackoverflow_url: http://stackoverflow.com/users/648298/eran-w?tab=profile`
 
 # Build settings
 markdown: kramdown

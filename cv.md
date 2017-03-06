@@ -4,14 +4,13 @@ title: Resume
 description: work experience
 image: assets/images/pic11.jpg
 nav-menu: true
+# use cv intro: (working for world-changing startups...)
+# add="cv"
+
 ---
 
-<!--
-use cv intro: (working for world-changing startups...)
--->
-<a id="cv">
-<h1>cv / work experience</h1>
-</a>
+
+
 <p>Connect via <a href="http://il.linkedin.com/pub/eran-weissenstern/61/154/936/">linkedin</a></p>
 
 <h3>Primesense</h3>
@@ -23,10 +22,15 @@ use cv intro: (working for world-changing startups...)
 <p>Application Engineer, UX team<br/><br />
 2011 - 2013</p>
 
-<p>I am part of the multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.<br />
-From concepts and brainstorm, through wireframes and mockups, to a working live demo. <br/>
-See <a href="#reach">'Reach' </a> for the video.
-</p>
+Software Engineer in the multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.
+Experienced pitching concepts and brainstorming, through wireframes and mockups, to a working live demo.
+
+See <a href="">'Reach' </a> for the video.
+<!--
+fix: post_url interaction/work/2013/06/01/reach.html
+-->
+
+
 
 <p><a href="http://www.primesense.com/">http://www.primesense.com/</a></p>
 
