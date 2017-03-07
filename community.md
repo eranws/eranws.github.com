@@ -7,6 +7,7 @@ nav-menu: true
 # add preface, community coding, opensource
 # add grab.js, eyeNav
 # add opensource
+order: 2
 ---
 
 ### Workshops

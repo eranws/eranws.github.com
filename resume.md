@@ -6,7 +6,7 @@ image: assets/images/pic11.jpg
 nav-menu: true
 # use cv intro: (working for world-changing startups...)
 # add="cv"
-
+order: 3
 ---
 
 <h3>Primesense</h3>

@@ -2,6 +2,7 @@
 layout: page
 title: projects
 url: \#projects
+order: 1
 ---
 
 {% include tiles.html %}

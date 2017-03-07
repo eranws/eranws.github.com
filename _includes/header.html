@@ -12,7 +12,8 @@
 		</span>
 		</a>
 	
-	{% for page in site.pages %}
+{% assign sorted_pages = site.pages | sort: 'order' %}
+	{% for page in sorted_pages %}
 		{% if page.layout != "home" %}
 			<nav id="page.title">
 				<a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
