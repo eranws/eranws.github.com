@@ -5,7 +5,8 @@ description: Talks, Events
 image: assets/images/pic11.jpg
 nav-menu: true
 # add preface, community coding, opensource
-# add grab.js, eyeNav
+# add grab.js, slides: http://eranws.github.io/grab.js/
+# eyeNav
 # add opensource
 order: 2
 ---
