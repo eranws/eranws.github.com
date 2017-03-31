@@ -28,7 +28,10 @@ The workshop was held at:
 ### Hackathons
 
 Co-organizer of <a href="http://thelepercolony.wordpress.com/infected-2/">"INFECTED"</a>, the 1st hackathon at the "Center of Design and Technology".<br />
-I was mentoring and giving technical assitance to teams who developed project with Primesense 3d camera
+
+Mentor and technical assitant for teams who developed project with Primesense 3d camera
+
+![](/images/infected.png)
 
 ### Talks
 
