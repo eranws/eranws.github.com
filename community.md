@@ -2,7 +2,7 @@
 layout: post
 title: Community
 description: Talks, Events
-image: assets/images/pic11.jpg
+image:
 nav-menu: true
 # add preface, community coding, opensource
 # add grab.js, slides: http://eranws.github.io/grab.js/

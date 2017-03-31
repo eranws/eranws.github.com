@@ -2,7 +2,7 @@
 layout: post
 title: Contact
 description:
-image: assets/images/pic11.jpg
+image: images/yesgif2t.gif
 nav-menu: true
 order: 4
 ---

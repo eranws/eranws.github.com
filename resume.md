@@ -2,7 +2,7 @@
 layout: post
 title: Resume
 description: work experience
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 # use cv intro: (working for world-changing startups...)
 # add="cv"
