@@ -5,7 +5,7 @@ email: eranws@gmail.com
 email_href: "mailto:eranws@gmail.com?Subject=Hi Eran, this is <your%20name>"
 
 description: ""
-baseurl: "/portfolio" # /forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # /forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Eran Weissenstern
 # street_address: 1234 Somewhere Road
