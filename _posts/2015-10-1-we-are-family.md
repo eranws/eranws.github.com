@@ -12,5 +12,7 @@ categories: friends interaction
 
 ![](http://odedezer.com/wp-content/uploads/2014/11/OdedEzer_WeAreFamily.jpg)
 
+[project page](https://eranws.github.io/WeAreFamily/about.html)
+
 Read more at Oded Ezer <a href="http://odedezer.com/we-are-family">website</a>
 

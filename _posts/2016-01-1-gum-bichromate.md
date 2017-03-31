@@ -10,6 +10,6 @@ categories: photography
 
 ---
 
+![](http://eranws.github.io/gumBichromate/screenshots/Screenshot_20160202-012111.png)
 
-
-http://eranws.github.io/gumBichromate
+[project page](http://eranws.github.io/gumBichromate)
