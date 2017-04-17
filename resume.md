@@ -10,16 +10,18 @@ order: 3
 ---
 
 
-<h3>NextDroid</h3>
-
+## NextDroid
 <p>
 Software Lead<br/>
+Advanced Robotics R&amp;D<br/>
 2015 - Current
 </p>
 
-* A stealth-mode startup from Boston (that's all I can say now)
+* Planned, initialized and executed projects for driverless cars and undersea robotic vehicles
+* Integrated computer vision, path planning and autonomous navigation
 
-### Primesense
+
+## Primesense
 <!--
 ![cv/primesense.jpg](cv/primesense.jpg)
 -->
@@ -40,7 +42,7 @@ Application team, UX Group<br/>
 * On November 2013, Apple Inc. [confirmed the purchase of PrimeSense](http://www.globes.co.il/en/article-1000896203) for $360 million.
 
 
-### [Powermat](http://powermat.com)
+## [Powermat](http://powermat.com)
 
 <!--
 ![](cv/powermat_logo_sh.jpg)
@@ -55,14 +57,13 @@ R&amp;D group<br />
 * Lead developer of <em>"Powermat Anywhere"</em>:  
   - an extended region wireless power charging solution  
   - self adjusts using gradient descent search algorithm  
-  - all code runs under 64 bytes [!] of RAM  
+  - runs under 64 bytes [!] of RAM  
 
 * Patent #[9,478,991](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
 
 
 
-
-<h3>Yellow Submarine Music Club</h3>
+### Yellow Submarine
 
 <!--
 ![](cv/yellowsublogo.png)
@@ -81,8 +82,26 @@ Freelance<br/>
 
 <h3>IDF</h3>
 <p>
+Field experiment team<br/>
 2006 - 2008
 </p>
 
-* Part of research and development experiment team for the IDF vehicles
+* R&D vehicle experiment team
 * Qualified Welder (Shielded and Gas)
+
+# Eduaction
+
+## M.Sc Computer Science
+<p>
+Hebrew University<br/>
+2013 - 2015
+</p>
+
+### B.Sc Computer Engineering
+
+<p>
+Focus on AI and Computer Vision<br/>
+Hebrew University<br/>
+2008 - 2011
+</p>
+
