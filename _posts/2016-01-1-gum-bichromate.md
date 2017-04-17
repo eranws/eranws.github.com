@@ -10,6 +10,9 @@ categories: photography
 
 ---
 
+An alternative printing workshop
+
+See photographs I developed and process in the [project page](http://eranws.github.io/gumBichromate)
+
 ![](http://eranws.github.io/gumBichromate/screenshots/Screenshot_20160202-012111.png)
 
-[project page](http://eranws.github.io/gumBichromate)
