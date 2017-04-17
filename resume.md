@@ -15,22 +15,22 @@ order: 3
 ![cv/primesense.jpg](cv/primesense.jpg)
 -->
 
-<p>Application Engineer, UX team<br/><br />
+<p>
+Application Engineer, UX team<br/>
 2011 - 2013</p>
 
 Software Engineer in the multidisciplinary UX group that design and develop gesture based control paradigms for Natural User Interfaces.
 Experienced pitching concepts and brainstorming, through wireframes and mockups, to a working live demo.
 
-See <a href="">'Reach' </a> for the video.
-<!--
-fix: post_url interaction/work/2013/06/01/reach.html
--->
+* Video demonstration of ['Reach']({{ site.baseurl }}{% post_url 2013-6-1-reach %}), developed by the UX group. 
 
+* Patent #[9,459,758](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern
+): _Gesture-based interface with enhanced features_, 
 
+* Patent #[9,377,865](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern): _Zoom-based gesture user interface_, 
 
-<p><a href="http://www.primesense.com/">http://www.primesense.com/</a></p>
+* On November 2013, Apple Inc. [confirmed the purchase of PrimeSense](http://www.globes.co.il/en/article-1000896203) for $360 million.
 
-<hr />
 
 <h3>Powermat</h3>
 
