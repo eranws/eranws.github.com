@@ -5,10 +5,15 @@
 		</section>
 			
 			<div class="inner">
-				
+
+
+				{% if page.name !="contact.md" %} 
 				<h3>
-					Contact:
+				Contact
 				</h3>
+				{% else %}
+				{% endif %}
+
 				<h4>
 					<a href="mailto:{{ site.email }}?Subject=Hi Eran, this is <your%20name%>" target="_top">{{ site.email }}</a>
 				</h4>
@@ -53,7 +58,9 @@
 
 				</ul>
 				<ul class="copyright">
-					<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+
+					<li>{{ site.title }} {{ site.subtitle }}</li>
+					<li>&copy; All rights reserved to Eran Weissenstern</li>
 					<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 					<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
