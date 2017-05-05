@@ -9,6 +9,19 @@ nav-menu: true
 order: 3
 ---
 
+I'm currently a Software Lead at a Stealth-mode Robotics company,
+for the past 2 years I have built live demos for key customers using C++, C# and Javascript.
+
+As a decision maker on technology, frameworks and tools, I developed infrastructure for 5+ systems of real-time image processing and visualization using client-server on multiple platforms: Linux, Windows, Android and Arduino.
+
+In the past, I worked as a Software Engineer at 2 Israeli startups:
+PowerMat, who developed the first wireless charging solution;
+PrimeSense, who invented the Kinect, and recently sold to Apple.
+
+I have M.Sc and B.Sc in Computer Science and Engineering from the Hebrew University.
+My focus is on AI, Computer Vision, Image Processing and Numerical Analysis.
+
+
 
 ## NextDroid
 <p>
