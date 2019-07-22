@@ -14,7 +14,7 @@ categories: fun
 
 A compiler I wrote in 3 days in less than 50 lines of code, for an esoteric language - FALSE, using another language, Red.
 
-![](red-50-lines.png)
+![](/images/red-50-lines.png)
 
 I have found this journey in the work of esoteric languages interesting and educational. 
 Even for the seasoned programmer, most of development is done using _some_ language, at the level of variables and functions, mostly writing procedures, classes and interfaces.
