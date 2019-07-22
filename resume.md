@@ -8,15 +8,14 @@ order: 3
 ---
 
 
-I'm a Software Engineer with 10+ years of experience 
-for the past 2 years I have built live demos for key customers
+I'm a Software Engineer with 10+ years of hands on experience.
+for the past 2 years I have built live demos and installations for key customers, museums and companies
 
-As a decision maker on technology, frameworks and tools, I developed image processing and visualization
-apps and infrastructure for real-time systems on multiple platforms: Linux, Windows, Android and Arduino.
+I worked as a developer on image processing and visualization apps, as a decision maker on technology, frameworks and tools for real-time systems on multiple platforms: Linux, Windows, Android and Arduino.
 
-In the past, I worked as a Software Engineer at 2 Israeli startups:
+In the past, I worked for 2 Israeli startups:
 Powermat, who developed the first wireless charging solution;
-PrimeSense, who invented the Kinect, and recently sold to Apple.
+PrimeSense, who invented the Kinect, and sold to Apple.
 
 I have M.Sc and B.Sc in Computer Science and Engineering from the Hebrew University.
 My research focus is on AI, Computer Vision, Image Processing and Numerical Analysis.
@@ -24,14 +23,12 @@ My research focus is on AI, Computer Vision, Image Processing and Numerical Anal
 
 ## Work Experience
 
-### NextDroid
+### Snapchat
 
 Software Engineer  
-Snap Inc. (Snapchat)
-2017 - 
+2017 - 2018
 
 * Designed and engineered live installations for Global Brand team
-
 
 
 ### NextDroid
@@ -40,8 +37,8 @@ Software Lead
 Advanced Robotics R&D  
 2015 - 2017
 
-* Planned, initialized and executed projects for driverless cars and undersea robotic vehicles
-* Integrated computer vision, path planning and autonomous navigation
+* Planned, initialized and executed projects for autonomous robotic vehicles
+* Integrated computer vision, path planning and navigation
 
 
 ### Primesense
@@ -58,9 +55,6 @@ Application team, UX Group
 * Designed wireframes and mockups that led to a full live demo
 
 * Video demonstration of '[Reach]({{ site.baseurl }}{% post_url 2013-6-1-reach %})'
-* Patent #[9,459,758](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern
-): _Gesture-based interface with enhanced features_, 
-* Patent #[9,377,865](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern): _Zoom-based gesture user interface_, 
 * On November 2013, Apple Inc. [confirmed the purchase of PrimeSense](http://www.globes.co.il/en/article-1000896203) for $360 million.
 
 
@@ -79,7 +73,6 @@ R&D group
   - self adjusts using gradient descent search algorithm  
   - runs under 64 bytes [!] of RAM  
 
-* Patent #[9,478,991](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
 
 
 
@@ -120,3 +113,12 @@ Hebrew University
 Major in AI and Computer Vision  
 Hebrew University  
 2008 - 2011
+
+
+## Patents
+
+* Patent #[9,478,991](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
+
+* Patent #[9,459,758](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern
+): _Gesture-based interface with enhanced features_, 
+* Patent #[9,377,865](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern): _Zoom-based gesture user interface_, 
