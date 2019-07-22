@@ -9,9 +9,9 @@ order: 3
 
 
 I'm a Software Engineer with 10+ years of hands on experience.
-for the past 2 years I have built live demos and installations for key customers, museums and companies
+I have built live demos and installations for key customers, museums and companies
 
-I worked as a developer on image processing and visualization apps, as a decision maker on technology, frameworks and tools for real-time systems on multiple platforms: Linux, Windows, Android and Arduino.
+I worked as a developer on image processing and visualization applications, as a decision maker on technology, frameworks and tools for real-time systems on multiple platforms: Linux, Windows, Android and Arduino.
 
 In the past, I worked for 2 Israeli startups:
 Powermat, who developed the first wireless charging solution;
