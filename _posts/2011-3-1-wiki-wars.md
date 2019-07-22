@@ -5,7 +5,7 @@ description: Visualisation of Wikipedia articles
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: http://eranws.github.io/projects/wikiwars/Butterfly2000-560.png
 tags: Visualisation Sonification HUJI Bezalel
-categories: 
+categories: music vision algorithm
 with: Jonathan Abramson
 ---
 

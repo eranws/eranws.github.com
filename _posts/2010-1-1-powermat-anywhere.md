@@ -5,7 +5,7 @@ description: wireless power charging solution
 # image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: /images/powermat-duracell.jpg
 tags: patent powermat
-categories: work
+categories: work electronics algorithm
 
 # powermat:
 # US 9478991 B2

@@ -13,14 +13,16 @@ order: 2
 
 ### Workshops
 
-I developed and led a Motion-game Workshop with PrimeSense sensors and Unity3d, see the results of 4-hours session:
+I developed and led a Motion-game Workshop with Depth sensors using Unity3d
+
+Watch a show reel the results of 5-hours session:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/x96QjirblXE?list=PL69B166657034606C&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
 
 The workshop was held at: 
-
 * [Center of Design and Technology](https://thelepercolony.wordpress.com), for students and graduades of Bezalel Academy of Arts and the Hebrew University
 * <a href="http://www.shenkar.ac.il/english/home/">Shenkar</a> as part of game development course
+
 
 <!--
 <p>Watch it on <a href="http://www.youtube.com/playlist?list=PL69B166657034606C&amp;feature=plcp">youtube</a></p>

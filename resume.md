@@ -7,26 +7,38 @@ nav-menu: true
 order: 3
 ---
 
-I'm currently a Software Lead at a Stealth-mode Robotics company,
-for the past 2 years I have built live demos for key customers using C++, C# and Javascript.
 
-As a decision maker on technology, frameworks and tools, I developed infrastructure for 5+ systems of real-time image processing and visualization using client-server on multiple platforms: Linux, Windows, Android and Arduino.
+I'm a Software Engineer with 10+ years of experience 
+for the past 2 years I have built live demos for key customers
+
+As a decision maker on technology, frameworks and tools, I developed image processing and visualization
+apps and infrastructure for real-time systems on multiple platforms: Linux, Windows, Android and Arduino.
 
 In the past, I worked as a Software Engineer at 2 Israeli startups:
 Powermat, who developed the first wireless charging solution;
 PrimeSense, who invented the Kinect, and recently sold to Apple.
 
 I have M.Sc and B.Sc in Computer Science and Engineering from the Hebrew University.
-My focus is on AI, Computer Vision, Image Processing and Numerical Analysis.
+My research focus is on AI, Computer Vision, Image Processing and Numerical Analysis.
 
 
 ## Work Experience
 
 ### NextDroid
 
+Software Engineer  
+Snap Inc. (Snapchat)
+2017 - 
+
+* Designed and engineered live installations for Global Brand team
+
+
+
+### NextDroid
+
 Software Lead  
 Advanced Robotics R&D  
-2015 - Current
+2015 - 2017
 
 * Planned, initialized and executed projects for driverless cars and undersea robotic vehicles
 * Integrated computer vision, path planning and autonomous navigation
@@ -63,19 +75,20 @@ R&D group
 2009 - 2011
 
 * Lead developer of _"Powermat Anywhere"_:  
-  - an extended region wireless power charging solution  
+  - wireless power charging solution with extended region   
   - self adjusts using gradient descent search algorithm  
   - runs under 64 bytes [!] of RAM  
 
 * Patent #[9,478,991](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
 
 
-### [Yellow Submarine](http://yellowsubmarine.org.il/)
 
+<!-- ### [Yellow Submarine](http://yellowsubmarine.org.il/) -->
 <!--
 ![](cv/yellowsublogo.png)
 -->
 
+<!-- 
 Translator (Hebrew - English)  
 Freelance  
 2007 - 2009
@@ -89,19 +102,21 @@ Field experiment team
 2006 - 2008
 
 * R&D vehicle experiment team
-* Qualified Welder (Shielded arc and Gas)
+* Qualified Welder (Shielded arc and Gas) 
+
+-->
 
 ---
 
 ## Education
 
 ### M.Sc Computer Science
-
+Thesis: _Induced Weights for Efficient Edge-Aware Interpolation_
 Hebrew University  
 2013 - 2015
 
 ### B.Sc Computer Engineering
 
-Focus on AI and Computer Vision  
+Major in AI and Computer Vision  
 Hebrew University  
 2008 - 2011

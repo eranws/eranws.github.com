@@ -4,7 +4,7 @@ title: New Falafel Concept
 description: with Avishai Lapid
 image: http://img.youtube.com/vi/7Zx499EiE_g/maxresdefault.jpg
 tags: kinect 
-categories: friends
+categories: friends interaction vision algorithm fun
 with: Avishai Lapid
 ---
 
