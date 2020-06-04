@@ -3,7 +3,7 @@ layout: post
 title: False Language Interpreter / Compiler
 description: a compiler 
 
-# image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
+# image: https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
 image: /images/red-50-lines.png
 
 tags: code red compiler

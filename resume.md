@@ -55,10 +55,10 @@ Application team, UX Group
 * Designed wireframes and mockups that led to a full live demo
 
 * Video demonstration of '[Reach]({{ site.baseurl }}{% post_url 2013-6-1-reach %})'
-* On November 2013, Apple Inc. [confirmed the purchase of PrimeSense](http://www.globes.co.il/en/article-1000896203) for $360 million.
+* On November 2013, Apple Inc. [confirmed the purchase of PrimeSense](https://www.globes.co.il/en/article-1000896203) for $360 million.
 
 
-### [Powermat](http://powermat.com)
+### [Powermat](https://powermat.com)
 
 <!--
 ![](cv/powermat_logo_sh.jpg)
@@ -76,7 +76,7 @@ R&D group
 
 
 
-<!-- ### [Yellow Submarine](http://yellowsubmarine.org.il/) -->
+<!-- ### [Yellow Submarine](https://yellowsubmarine.org.il/) -->
 <!--
 ![](cv/yellowsublogo.png)
 -->
@@ -117,8 +117,8 @@ Hebrew University
 
 ## Patents
 
-* Patent #[9,478,991](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
+* Patent #[9,478,991](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9478991&OS=9478991&RS=9478991): System and method for transferring power inductively over an extended region 
 
-* Patent #[9,459,758](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern
+* Patent #[9,459,758](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern
 ): _Gesture-based interface with enhanced features_, 
-* Patent #[9,377,865](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern): _Zoom-based gesture user interface_, 
+* Patent #[9,377,865](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=weissenstern&OS=weissenstern&RS=weissenstern): _Zoom-based gesture user interface_, 

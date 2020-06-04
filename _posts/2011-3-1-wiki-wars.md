@@ -2,8 +2,8 @@
 layout: post
 title: WikiWars
 description: Visualisation of Wikipedia articles
-# image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
-image: http://eranws.github.io/projects/wikiwars/Butterfly2000-560.png
+# image: https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
+image: https://eranws.github.io/projects/wikiwars/Butterfly2000-560.png
 tags: Visualisation Sonification HUJI Bezalel
 categories: music vision algorithm
 with: Jonathan Abramson

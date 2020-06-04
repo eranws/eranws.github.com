@@ -24,11 +24,11 @@ facebook_url:
 github_url: https://github.com/eranws/
 gitlab_url:
 googleplus_url: #https://plus.google.com/u/0/+
-linkedin_url: http://il.linkedin.com/pub/eran-weissenstern/61/154/936/ #https://www.linkedin.com/in/
+linkedin_url: https://il.linkedin.com/pub/eran-weissenstern/61/154/936/ #https://www.linkedin.com/in/
 pinterest_url:
 slack_url:
 twitter_url: #https://twitter.com/
-stackoverflow_url: http://stackoverflow.com/users/648298/eran-w?tab=profile`
+stackoverflow_url: https://stackoverflow.com/users/648298/eran-w?tab=profile`
 
 # Build settings
 markdown: kramdown

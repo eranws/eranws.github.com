@@ -2,8 +2,8 @@
 layout: post
 title: Orchestra Der Elektrogeräte
 description: with Avishai Lapid
-# image: http://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
-image: http://www.avishailapid.com/wp-content/uploads/2016/04/Kuznetsov035.jpg
+# image: https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg
+image: https://www.avishailapid.com/wp-content/uploads/2016/04/Kuznetsov035.jpg
 tags: processing kinect ui
 categories: friends interaction vision algorithm
 with: Avishai Lapid

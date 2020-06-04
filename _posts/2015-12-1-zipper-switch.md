@@ -2,7 +2,7 @@
 layout: post
 title: ZipperSwitch
 description: demo of a zipper as an on/off switch
-image: http://img.youtube.com/vi/zP-OwJLfN3A/maxresdefault.jpg
+image: https://img.youtube.com/vi/zP-OwJLfN3A/maxresdefault.jpg
 tags: arduino
 categories: interaction
 ---
