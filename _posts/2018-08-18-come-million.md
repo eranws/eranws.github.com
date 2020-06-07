@@ -7,7 +7,7 @@ description: a Giant Chameleon Colorful Sculpture
 image: /images/come-million.jpg
 
 tags: 
-categories: fun are
+categories: fun art
 
 ---
 
