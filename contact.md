@@ -7,7 +7,7 @@ nav-menu: true
 order: 4
 ---
 
-I am always open for new collaboration ideas,  
+I am open for new collaboration ideas,  
 If you like to talk, I'm happy to listen!
 					
 Send me an email, or use the contact buttons
